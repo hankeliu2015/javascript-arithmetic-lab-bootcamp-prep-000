@@ -42,17 +42,14 @@ function makeInt(n) {
 
 //preserveDecimal(n)
 
-
 function preserveDecimal(n) {
   var number;
   number = parseFloat(n);
   return number;
 }
 
-// function preserveDecimal(n, non) {
-//   var number;
+// function preserveDecimal(non) {
 //   var nonnumber;
-//   number = parseFloat(n);
 //   nonumber = parseFloat(non);
-//   return number, nonumber;
+//   return nonumber;
 // }
