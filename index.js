@@ -53,8 +53,6 @@ function preserveDecimal(n) {
 //   var number;
 //   var nonnumber;
 //   number = parseFloat(n);
-//   nonumber = parseFloat(non); 
+//   nonumber = parseFloat(non);
 //   return number, nonumber;
 // }
-
-
